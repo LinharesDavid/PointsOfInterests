@@ -1,0 +1,12 @@
+PODS:
+  - Alamofire (4.7.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+
+PODFILE CHECKSUM: cf3bdaf88ce833548ea8e633ca47853e08d7cf2c
+
+COCOAPODS: 1.4.0

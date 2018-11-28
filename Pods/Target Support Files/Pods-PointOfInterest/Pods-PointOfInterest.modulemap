@@ -1,0 +1,6 @@
+framework module Pods_PointOfInterest {
+  umbrella header "Pods-PointOfInterest-umbrella.h"
+
+  export *
+  module * { export * }
+}
